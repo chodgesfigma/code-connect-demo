@@ -1,2 +1,2 @@
-export * from "./Buttons";
-export * from "./Dialog";
+export * from "./buttons";
+export * from "./dialog";

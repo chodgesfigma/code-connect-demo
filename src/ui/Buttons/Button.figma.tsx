@@ -3,7 +3,7 @@ import figma from "@figma/code-connect";
 
 figma.connect(
   Button,
-  "https://www.figma.com/file/SS2xN8AagXT0ofpo8PNIp9?node-id=9215-9074",
+  "<FIGMA_BUTTONS>",
   {
     props: {
       label: figma.string("Label"),

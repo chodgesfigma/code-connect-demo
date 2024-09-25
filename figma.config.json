@@ -1,0 +1,24 @@
+{
+    "codeConnect": {
+      "include": ["src/ui/**/*"],
+      "exclude": [""],
+      "parser": "react",
+      "label":"React",
+      "importPaths": {
+        "ui/buttons/*": "buttons",
+        "ui/icons/*": "icons",
+        "ui/dialog/*": "dialogs"
+      },
+      "paths": {
+        
+      },
+      "documentUrlSubstitutions": {
+        "<FIGMA_ICONS>": "https://figma.com/design/QoRuIyvWysnRMHBodNX9MY",
+        "<FIGMA_BUTTONS>": "https://www.figma.com/file/QoRuIyvWysnRMHBodNX9MY?node-id=9-205",
+        "<FIGMA_ICON_BUTTONS>": "https://www.figma.com/file/QoRuIyvWysnRMHBodNX9MY?node-id=9-363",
+        "<FIGMA_DIALOGS>": "https://www.figma.com/file/QoRuIyvWysnRMHBodNX9MY?node-id=9-467",
+        "<FIGMA_DIALOG_ACTIONS>": "https://www.figma.com/file/QoRuIyvWysnRMHBodNX9MY?node-id=9-461",
+        "<FIGMA_DIALOG_CONTENTS>": "https://www.figma.com/file/QoRuIyvWysnRMHBodNX9MY?node-id=9-464"
+      }
+    }
+  }

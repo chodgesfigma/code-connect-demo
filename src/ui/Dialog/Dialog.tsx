@@ -1,5 +1,5 @@
 import { ReactNode } from "react";
-import { IconButton } from "ui/Buttons/IconButton";
+import { IconButton } from "ui/buttons/IconButton";
 import "./dialog.css";
 import { IconClose } from "ui/icons";
 
